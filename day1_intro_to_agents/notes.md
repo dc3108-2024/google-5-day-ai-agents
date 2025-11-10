@@ -2,6 +2,8 @@
 
 ## Key Takeaways
 
+Agent flow:
+Prompt -> Agent -> Thought -> Action -> Observation -> Final Answer
 - 
 - 
 - 
